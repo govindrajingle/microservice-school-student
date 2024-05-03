@@ -1,6 +1,6 @@
 package com.dev.build.controller;
 
-import com.dev.build.StudentService;
+import com.dev.build.service.StudentService;
 import com.dev.build.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
